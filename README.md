@@ -2,10 +2,6 @@
 Sample backend for university lecture about web development
 
 ## build and run
-Go to app directory
-```
-cd app
-```
 Create virtual environment
 ```
 python -m venv venv
@@ -24,5 +20,5 @@ export FLASK_APP=/app/back.py
 ```
 Run the app
 ```
-python -m flask run
+python -m flask run app
 ```
