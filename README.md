@@ -8,7 +8,7 @@ python -m venv venv
 ```
 Start virtual environment
 ```
-source env/bin/activate
+source venv/bin/activate
 ```
 Install Flask
 ```
